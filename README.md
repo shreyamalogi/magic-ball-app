@@ -1,6 +1,6 @@
-# magic-ball-app
 
-# Magic 8 Ball 🎱
+
+# Magic 8 Ball APP 🎱
 
 boss level challenge 
 
